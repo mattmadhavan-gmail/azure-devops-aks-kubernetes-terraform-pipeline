@@ -1,7 +1,7 @@
 --------------------------------------------
 # Terraform State Storage Azure RM
-Resource Group: terraform-storage-demo-1252-rg
-Storage Account: terraformstate-demo-1252
+Resource Group: tf-state-storage-rg
+Storage Account: tfstoragetateazureaks
 Container: tfstatefiles
 
 # Manifests Folder
